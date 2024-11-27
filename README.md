@@ -1,6 +1,17 @@
 # Fine-tuning Graph Neural Networks by Preserving Graph Generative Patterns
  <a href='https://aaai.org/aaai-conference/aaai-24-photos/'><img src='https://img.shields.io/badge/Conference-AAAI-magenta'></a> 
  <a href='https://github.com/horrible-dong/DNRT/blob/main/LICENSE'><img src='https://img.shields.io/badge/License-Apache--2.0-blue'></a> 
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fine-tuning-graph-neural-networks-by/graph-classification-on-enzymes)](https://paperswithcode.com/sota/graph-classification-on-enzymes?p=fine-tuning-graph-neural-networks-by)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fine-tuning-graph-neural-networks-by/graph-classification-on-imdb-m)](https://paperswithcode.com/sota/graph-classification-on-imdb-m?p=fine-tuning-graph-neural-networks-by)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fine-tuning-graph-neural-networks-by/graph-classification-on-msrc-21-per-class)](https://paperswithcode.com/sota/graph-classification-on-msrc-21-per-class?p=fine-tuning-graph-neural-networks-by)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fine-tuning-graph-neural-networks-by/graph-classification-on-mutag)](https://paperswithcode.com/sota/graph-classification-on-mutag?p=fine-tuning-graph-neural-networks-by)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fine-tuning-graph-neural-networks-by/graph-classification-on-proteins)](https://paperswithcode.com/sota/graph-classification-on-proteins?p=fine-tuning-graph-neural-networks-by)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fine-tuning-graph-neural-networks-by/graph-classification-on-imdb-b)](https://paperswithcode.com/sota/graph-classification-on-imdb-b?p=fine-tuning-graph-neural-networks-by)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fine-tuning-graph-neural-networks-by/graph-classification-on-bace)](https://paperswithcode.com/sota/graph-classification-on-bace?p=fine-tuning-graph-neural-networks-by)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fine-tuning-graph-neural-networks-by/graph-classification-on-bbbp)](https://paperswithcode.com/sota/graph-classification-on-bbbp?p=fine-tuning-graph-neural-networks-by)
+ 
 ## G-Tuning
 This repo is the implementation of paper “Fine-tuning Graph Neural Networks by Preserving Graph Generative Patterns" accepted by AAAI' 24.
 
